@@ -17,6 +17,7 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
   });
 });
 
+
 /* ── NAV SCROLL ── */
 const nav = document.getElementById('mainNav');
 window.addEventListener('scroll', () => {
